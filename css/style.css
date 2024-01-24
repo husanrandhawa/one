@@ -1,0 +1,56 @@
+/* for cart item  */
+
+.custom-margin{
+    margin: -8px;
+}
+
+.dropdown-custom-margin{
+    /* margin: -19px -7px; */
+    margin-top: 4px;
+    list-style: none;
+}
+
+
+/* slider image  */
+.image-size{
+    width: 100%;
+    height: 450px
+}
+
+
+/* custom padding for first colum */
+.custom-padding{
+    padding: 0.25rem;
+}
+.custom-color-size{
+    color: #56565a;
+    font-size: 1rem;
+}
+.img-fluid-custom{
+    width: 260px;
+    height: 200px;
+}
+
+.pluss{
+    margin-left: 180px;
+  }
+
+/* for last button of download and preview */
+.btn1 {
+    background-color: #060620;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 24%;
+    height: 60px;
+    font-size: 25px;
+    margin: 4px;
+  }
+
+  .cursor{
+    cursor: pointer;
+  }
+
+  
